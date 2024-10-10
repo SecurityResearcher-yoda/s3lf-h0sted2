@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: echo ${{ secrets.token }};sleep 61
-        # a scheduled cron workflow run with secrets
+        # Mimic a scheduled cron workflow run with secrets by triggering this run
 
       - name: Run tests
         run: npm test

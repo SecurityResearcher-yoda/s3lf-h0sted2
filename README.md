@@ -2,4 +2,4 @@
 
 A legitimate contribution to become a contributor.
 
-Can be  a typo fix
+Can be  a typo fix.
